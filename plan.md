@@ -163,7 +163,7 @@ exemple.: citer les classes en Bootstrap et les features responsives
 *exemple.:*  
 **Sources :** https://getbootstrap.com/docs/4.0/getting-started/introduction/ (Version 4)  
   
-## Chapitre II : Cas d'usages : Applications : des imaegs au IIIF  
+## Chapitre II : Cas d'usages : Applications : des images au IIIF  
   
 ### A. Applications pour gérer la taille des images (file size)  
 #### a1. DaSCH Converter  
