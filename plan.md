@@ -61,7 +61,7 @@ B. Introduire questions théoriques sur les données
 *exemple.:*  universal, Mirador etc.
   
 **à mentionner :**  
-"Viewer" est un nom plutôt, soutenir cette afirmation avec l'un des article  
+"Viewer" est une dénomination générique pour les outils qui nous permettent de rendre des modèles 3D visibles sur web (cf. Rossenova, 2023) 
   
 #### b3. IIIF versions : API 3.0.  
 **sous-argument 1 :** expliquer création et but  
