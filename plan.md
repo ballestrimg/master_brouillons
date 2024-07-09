@@ -294,3 +294,9 @@ AJOUTER BIBLIO
 #### à mentionner:  
 graphes de reduction comparative des archives  
 graphes de performance  
+
+#### caractéristiques formelles du master
+travail écrit en LaTeX
+ajout de table de matières 
+ajout d'une section annexes 
+
